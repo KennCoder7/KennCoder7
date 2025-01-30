@@ -1,5 +1,5 @@
 ## Hi there 👋
-[Welcome to my Website for more info.](https://kenncoder7.githun.io)
+[Welcome to my Website for more info.](https://kenncoder7.github.io)
 <!--
 **KennCoder7/KennCoder7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
